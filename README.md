@@ -1,1 +1,2 @@
 # Telco-Customer-Churn
+The Telco Customer Churn project utilizes machine learning techniques to predict and identify customers who are likely to churn or discontinue their services with a telecommunications company. By analyzing historical customer data and relevant features, the project aims to develop a predictive model that can assist in proactive customer retention strategies and reduce churn rates.
